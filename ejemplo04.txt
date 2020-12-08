@@ -1,4 +1,4 @@
-//  Ejemplo de uso de arreglos 
+-++//  Ejemplo de uso de arreglos 
 1.  Inicio
 2.  (notasEstudiantes(7),i[1-n])
 3.  indice, i[0-n]
@@ -10,7 +10,8 @@
 9.  notasEstudiantes[5] <-- 10
 10. notasEstudiantes[6] <-- 8
 11. Para(indice<--0, indice<7, 1) haga
-12.     Escribir notasEstudiantes[indice]
+12.     Escribir notasEstudiantes[indice] // notasEstudiantes[0] // 9
+					  // notasEstudiantes[1] // 10	
 13. Fin_Para 
 14. Fin
 
